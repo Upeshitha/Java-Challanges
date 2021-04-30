@@ -26,5 +26,6 @@ manifest.mf
 # gradle files
 .gradle/
 gradle/
+gradlew
 *.gradle
 *.bat
